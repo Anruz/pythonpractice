@@ -13,7 +13,5 @@ def binary_search(input_list,ele):
             return mid
         return -1
 
-
-
 val = binary_search([1,2,3,4,5], 3)
 print(val)
